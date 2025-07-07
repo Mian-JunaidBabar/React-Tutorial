@@ -1,0 +1,15 @@
+.welcome-message {
+  color: #4caf50;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.login-prompt {
+  color: #f44336;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 20px 0;
+  text-align: center;
+}
