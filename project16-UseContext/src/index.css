@@ -1,0 +1,27 @@
+.component-a {
+  background-color: #f0f0f0;
+  padding: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.component-b {
+  background-color: #e0f7fa;
+  padding: 16px;
+  border: 1px solid #80deea;
+  border-radius: 8px;
+}
+
+.component-c {
+  background-color: #ffe0b2;
+  padding: 16px;
+  border: 1px solid #ffcc80;
+  border-radius: 8px;
+}
+
+.component-d {
+  background-color: #c8e6c9;
+  padding: 16px;
+  border: 1px solid #a5d6a7;
+  border-radius: 8px;
+}
